@@ -46,7 +46,10 @@ position: relative;
 left:5px;
 }
 
-
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
 
 .history {
   background-color: black;
